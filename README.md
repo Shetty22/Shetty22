@@ -13,7 +13,13 @@
 - cybersecurity
 - AI & Machine Learning
 - Data Structures & Algorithms
-- Data science 
+- Data science
+
+- ## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,git,github,vscode,linux,androidstudio,firebase,tensorflow,arduino" />
+</p>
 
 💻 Currently Building:
 - 🤖 MAI AI Assistant
@@ -21,7 +27,4 @@
 
 📫 Reach me:
 - GitHub: https://github.com/Shetty22
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shetty22&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shetty22&layout=compact&theme=tokyonight&hide_border=true" />
 
