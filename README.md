@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋, I'm Manjunath Neeli
 
-<!--
-**Shetty22/shetty22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 AI & Data Science Student
 
-Here are some ideas to get you started:
+🚀 Learning:
+- Python
+- Java
+- C
+- cybersecurity
+- AI & Machine Learning
+- Data Structures & Algorithms
+- Data science 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently Building:
+- 🤖 MAI AI Assistant
+- 🌱 CropThirst Smart Irrigation System
+
+📫 Reach me:
+- GitHub: https://github.com/Shetty22
