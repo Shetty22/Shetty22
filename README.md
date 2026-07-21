@@ -28,10 +28,4 @@
 📫 Reach me:
 - GitHub: https://github.com/Shetty22
 
-- ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shetty22&show_icons=true&theme=github_dark&cache_seconds=1800" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shetty22&layout=compact&theme=github_dark&cache_seconds=1800" height="180"/>
-</p>
 
