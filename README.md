@@ -21,6 +21,12 @@
   <img src="https://skillicons.dev/icons?i=python,java,c,git,github,vscode,linux,androidstudio,firebase,tensorflow,arduino" />
 </p>
 
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%">
+</p>
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
