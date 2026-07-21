@@ -21,6 +21,12 @@
   <img src="https://skillicons.dev/icons?i=python,java,c,git,github,vscode,linux,androidstudio,firebase,tensorflow,arduino" />
 </p>
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shetty22&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
 💻 Currently Building:
 - 🤖 MAI AI Assistant
 - 🌱 CropThirst Smart Irrigation System
