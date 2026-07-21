@@ -27,6 +27,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Shetty22&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shetty22&theme=tokyonight&hide_border=true" />
+</p>
+
 💻 Currently Building:
 - 🤖 MAI AI Assistant
 - 🌱 CropThirst Smart Irrigation System
